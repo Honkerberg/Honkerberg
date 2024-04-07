@@ -30,4 +30,3 @@ Backend developer
 
 <a href="http://www.github.com/honkerberg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=honkerberg&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![](./profile-3d-contrib/profile-night-green.svg)
