@@ -6,6 +6,7 @@ Backend developer
 
 * 🌍  I'm based in Czech Republic, but I love travelling
 * 🧠  I'm learning Python frameworks and FE frameworks, very interested in Machine learning
+* 💻  Claude, ChatGPT and Copilot are my only friends 
 * 🤝  I'm open to collaborating on interesting projects or automate things
 * ⚡  🪿Goose is a friend to me, honk 🪿
 
